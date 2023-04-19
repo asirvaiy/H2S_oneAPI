@@ -1,4 +1,4 @@
-# oneAPI Lab Sample guide
+# oneAPI Hands-on Sample Guide
 This repo is for oneAPI hackathon with Hack2Skill. It provides you the instructions how to run the Jupyter notebook lab samples on DevCloud.
 
 We have two samples for this workshop. Intel(R) Extension for Scikit-learn and Intel(R) Extension for PyTorch(IPEX)
