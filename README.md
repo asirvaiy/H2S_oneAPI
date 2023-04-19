@@ -1,4 +1,4 @@
-This repo is to for oneAPI hackathon with Hack2Skill. It provides you the instructions how to run the labs on Jupyter notebook.
+This repo is for oneAPI hackathon with Hack2Skill. It provides you the instructions how to run the labs on Jupyter notebook.
 
 We have two samples for this workshop. Intel Extension for Scikit-learn and Intel Extension for PyTorch(IPEX)
 Both are these are available in the oneAPI sample repo. You need to git clone the repo using :
