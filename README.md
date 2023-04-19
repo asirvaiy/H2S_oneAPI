@@ -7,12 +7,12 @@ git clone https://github.com/oneapi-src/oneAPI-samples.git
 ```
 After having the repo locally, you should see "oneAPI-samples" directory. Navigate to "oneAPI-samples/AI-and-Analytics/Features-and-Functionality/"
 
-## Intel(R) Extension for Scikit-learn sample:
+## Intel(R) Extension for Scikit-learn* sample:
 
  For Intel(R) Extension for Scikit-learn lab sample, open Intel_Extension_For_SKLearn_Performance_SVC_Adult/Intel_Extension_for_SKLearn_Performance_SVC_Adult.ipynb
  And run all the cells one by one.
  
- ## Intel(R) Extension for PyTorch sample:
+ ## Intel(R) Extension for PyTorch* sample:
 
  For IntelR) Extension for PyTorch lab sample, open IntelPyTorch_Extensions_Inference_Optimization/optimize_pytorch_models_with_ipex.ipynb
  And run all the cells one by one.
