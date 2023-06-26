@@ -10,4 +10,4 @@ pip install --upgrade pip
 pip install torch torchvision torchaudio    ## install torch cpu + torchvision
 pip install intel_extension_for_pytorch -f https://developer.intel.com/ipex-whl-stable-cpu #install IPEX
 pip install transformers matplotlib ipykernel
-python -m ipykernel install --user --name $ENV_NAME  #Register the env as a kernal for using it with jupyter notebook
+python -m ipykernel install --user --name IPEX  #Register the env as a kernal for using it with jupyter notebook
